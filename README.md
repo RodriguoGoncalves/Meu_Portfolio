@@ -32,5 +32,9 @@ Desenvolvimento de dashboards utilizando as ferramentas Tableau e Power BI; Aná
 
 
 ## Projetos:
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise dos Dados do Airbnb - Atenas, Grécia:** https://abre.ai/airbnbatenas
+
+## Extras:
+* **Scripts interessantes:** https://abre.ai/airbnbatenas
+
 
