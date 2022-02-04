@@ -33,7 +33,7 @@ Desenvolvimento de dashboards utilizando as ferramentas Tableau e Power BI; Aná
 
 ## Projetos:
 * **Análise dos Dados do Airbnb - Atenas, Grécia:** https://abre.ai/airbnbatenas
-*  **Análise de Dados e Modelo Preditivo de dados Cooptados via Sac:** https://abre.ai/airbnbatenas
+*  **Análise de Dados e Modelo Preditivo de dados Cooptados via Sac:** hthttps://abre.ai/mkt-sac-aps
 
 ## Extras:
 * **Scripts interessantes:** https://abre.ai/extraestudo
