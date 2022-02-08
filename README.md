@@ -35,7 +35,6 @@ Desenvolvimento de dashboards utilizando as ferramentas Tableau e Power BI; Aná
 ### Python:
 * **Análise dos Dados do Airbnb - Atenas, Grécia:** https://abre.ai/airbnbatenas
 *  **Análise de Dados e Modelo Preditivo de dados Cooptados via Sac:** https://abre.ai/mkt-sac-aps
-### Excel:
 
 ## Extras:
 * **Scripts interessantes:** https://abre.ai/extraestudo
