@@ -40,7 +40,7 @@ Desenvolvimento de dashboards utilizando as ferramentas Tableau e Power BI; Aná
 * **Scripts interessantes:** https://abre.ai/extraestudo
 
 ## Estudo:
-* **Python do zero- Primeira Versão:** https://abre.ai/extraestudo
+* **Python do zero- Primeira Versão:** https://abre.ai/histor
 
 
 
