@@ -7,7 +7,7 @@ Template para portfólio de Data Science
 </p>
 
 # Rodrigo Goncalves
-<sub>*Analista de Banco de Dados* Júnior</sub>
+<sub>*Analista de Banco de Dados* Pleno</sub>
 
 Tenho experiência no campo Administrativo, Financeiro e Dados.
 
