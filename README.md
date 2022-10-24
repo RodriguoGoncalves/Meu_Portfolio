@@ -40,7 +40,7 @@ Desenvolvimento de dashboards utilizando as ferramentas Tableau e Power BI; Aná
 
 ## Estudo:
 * **Python do zero- Primeira Versão:** https://abre.ai/histor
-* **Python do zero- Segunda Versão:** https://abre.ai/histor
+* **Python do zero- Segunda Versão:** [Clique aqui](https://github.com/RodriguoGoncalves/PythondoZeroSegundaVersao/blob/main/README.md)
 
 
 
