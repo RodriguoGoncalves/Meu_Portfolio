@@ -28,7 +28,6 @@ Desenvolvimento de dashboards utilizando as ferramentas Tableau e Power BI; Aná
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-a22b6012a/)
-* [Medium](https://medium.com/@rodriguogoncalves)
 
 
 ## Projetos:
