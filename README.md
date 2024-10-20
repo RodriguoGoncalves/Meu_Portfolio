@@ -1,5 +1,4 @@
 # template_portfolio
-Template para portfólio de Data Science
 [![author](https://img.shields.io/badge/author-RodrigoGonc-red.svg)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-a22b6012a/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RodriguoGoncalves/sigmoidal_data_science)
 
 <p align="center">
@@ -7,7 +6,7 @@ Template para portfólio de Data Science
 </p>
 
 # Rodrigo Goncalves
-<sub>*Analista de Banco de Dados* Pleno</sub>
+<sub>*Analista de Negócios e Dados* Pleno</sub>
 
 Tenho experiência no campo Administrativo, Financeiro e Dados.
 
@@ -31,15 +30,9 @@ Desenvolvimento de dashboards utilizando as ferramentas Tableau e Power BI; Aná
 
 
 ## Projetos:
-* **Análise dos Dados do Airbnb - Atenas, Grécia:** https://abre.ai/airbnbatenas
-*  **Análise de Dados e Modelo Preditivo de dados Cooptados via Sac:** https://abre.ai/mkt-sac-aps
-
-## Extras:
-* **Scripts interessantes:** https://abre.ai/extraestudo
 
 ## Estudo:
-* **Python do zero- Primeira Versão:** https://abre.ai/histor
-* **Python do zero- Segunda Versão:** [Clique aqui](https://github.com/RodriguoGoncalves/PythondoZeroSegundaVersao/blob/main/README.md)
+* **Python do zero** [Clique aqui](https://github.com/RodriguoGoncalves/PythondoZeroSegundaVersao/blob/main/README.md)
 
 
 
